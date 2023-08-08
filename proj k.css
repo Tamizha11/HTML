@@ -1,0 +1,115 @@
+body{
+    background-color:floralwhite;
+    border: 4px solid black;
+}
+.box{
+    height: 600px;
+    background-color: aqua;
+}
+img{
+    float:right;
+    height: 400px;
+    width: 500px;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+.china{background-color:chartreuse;}
+.mexico{background-color: cyan;}
+.jordan{background-color:coral;}
+.peru{background-color: yellow;}
+.brazil{background-color: violet;}
+.italy{background-color:silver;}
+.india{background-color: lightpink;}
+
+#para3{
+    font-size:25px;
+    padding-left: 30px;
+    padding-top: 20px;
+    padding-right: 20px;
+    text-align:justify;
+    text-transform:; 
+    word-spacing: 18px;
+    letter-spacing: 4px;
+    line-height: 35px;
+    text-align-last:left;
+    text-indent: 60px;
+    font-weight:;
+    font-style:oblique;
+    font-variant:small-caps;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#para1{
+    font-size:20px;
+    padding-left: 30px;
+    padding-top: 20px;
+    text-align:justify;
+    text-transform:; 
+    word-spacing: 10px;
+    letter-spacing: 2px;
+    line-height: 30px;
+    text-align-last:left;
+    text-indent: 60px;
+    font-weight:;
+    font-style:oblique;
+    font-variant:small-caps;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.a1{
+    padding-left: 40px;
+    padding-top: 15px;
+    word-spacing: 5px;
+    letter-spacing: 2px;
+    font-variant: small-caps;
+    text-transform: capitalize;
+    text-decoration: underline;
+    text-decoration-style:dotted;
+    
+    
+}
+#head{
+    display: flex;
+    background-color:darkorange;
+    justify-content: center;
+    padding-top: 25px;
+    font-size:xxx-large;
+    word-spacing: 10px;
+    letter-spacing:4px;
+    font-variant: small-caps;
+    color:black;
+}
+
+.para{
+    font-size:x-large;
+    font-style:normal;
+    font-weight:bolder;
+}
+
+.wall{
+    padding-left: 800px;
+    padding-top: 60px;
+}
+.itaza{
+    padding-left: 800px;
+    padding-top: px;
+}
+.petra{
+    padding-left: 800px;
+    padding-top: px;
+}
+.machu{
+    padding-left: 800px;
+    padding-top: px;
+}
+.christ{
+    padding-left:800px;
+    padding-top: 30px;
+}
+.colo{
+    padding-left: 800px;
+    padding-top: 60px;
+}
+.mahal{
+    padding-left: 800px;
+    padding-top: 60px;
+}
